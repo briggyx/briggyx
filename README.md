@@ -11,6 +11,11 @@ My name is Brigitte Yan, and I'm a data analyst from Toronto. 🍁🏙️🌃
  </div>
 
 
+## Currently working on...
+- Doing more data projects
+- Learning Mandarin & French 
+
+
 
 ## Techstack
 <div style="text-align: center;">
