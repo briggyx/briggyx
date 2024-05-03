@@ -6,7 +6,7 @@ My name is Brigitte Yan, and I'm a data analyst from Toronto. 🍁🏙️🌃
 
 <div style="text-align: center;">
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Icon" width="30" height="30">](mailto:brigitte.xyan@gmail.com)      [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/30px-LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="30" height="30">](https://www.linkedin.com/in/brigitte-yan/)     [<img src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="Medium Icon" width="30" height="30">](https://medium.com/@brigitte.xyan) <-- connect with me! :)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Icon" width="30" height="30">](mailto:brigitte.xyan@gmail.com)      [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/30px-LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="30" height="30">](https://www.linkedin.com/in/brigitte-yan/)     [<img src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="Medium Icon" width="30" height="30">](https://medium.com/@brigitte.xyan) 
 
  </div>
 
