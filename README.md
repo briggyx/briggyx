@@ -28,17 +28,6 @@ My name is Brigitte Yan, and I'm a data analyst from Toronto. 🍁🏙️🌃
  </div>
 
 
-
-## Interests
-- Databases, data analysis, statistics
-- Storytelling with stats, stats visual representation 
-- Design 
-- Outdoor activities 
-- Cooking & baking
-- Cats
-
-
-
 ## Education
 - I got my BSc from the University of Toronto, where I focused mainly on Ecology & Evolutionary Biology (2016). 🦋
 - After that, I moved to the east coast and got my Bachelor of Environmental Design Studies (BEDS) from Dalhousie University, focusing on architecture (2019). 🏙️ 
