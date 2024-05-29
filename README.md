@@ -20,15 +20,15 @@
 
 
 ## 🖥️ Professional Experience
-- Condo Designer
-- Research Student & Technician at a Museum 
-- Financial Services Customer Service
-- Summer camp Arts & Crafts Instructor 
+- **Condo Designer**
+- **Research Student & Technician** at a museum 
+- **Customer Service** for financial services
+- **Arts & Crafts Instructor** at Algonquin Provincial Park
 
 ## 🎓 Education
-- B.Sc.; Ecology & Evolutionary Biology & Mathematics; University of Toronto
-- BEDS; Environmental Design (Architecture); Dalhousie University
-- Data Science Bootcamp; Lighthouse Labs
+- **B.Sc. in Ecology & Evolutionary Biology & Mathematics**; University of Toronto
+- **Bachelor of Environmental Design Studies (Architecture)**; Dalhousie University
+- **Data Science Bootcamp**; Lighthouse Labs
 
 ## 🗺️ Other Experiences
 - Adirondack Forest Ecology Field Course at SUNY-ESF 
@@ -41,7 +41,7 @@
     - Experimental Design & Data Collection, Hypothesis Testing, Data Wrangling & Visualization, PCA, Regressions, Clustering, ANOVA, Correlation, Correspondence Analysis, KPIs.
 - **Integrated Data & Project Management:**
     - Database Management, Storytelling with Data, Project Management, UX Design, Version Control (GIT), Customer-Centric Approach, ETL, Agile Methodologies.
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=social&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=social&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=social&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=social&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=social&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=social&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=social&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=social&logo=Figma&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jupyter-05122A?style=social&logo=Jupyter&color=353535) ![Bootstrap](https://img.shields.io/badge/-Power%20BI-05122A?style=social&logo=Power-BI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tableau-05122A?style=social&logo=Tableau&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=social&logo=Microsoft-Excel&color=353535) ![Bootstrap](https://img.shields.io/badge/-PGAdmin4-05122A?style=social&logo=PGAdmin4&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQLite-05122A?style=social&logo=SQLite&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=social&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=social&logo=SQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Snowflake-05122A?style=social&logo=Snowflake&color=353535) ![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=social&logo=AWS&color=353535)
 
