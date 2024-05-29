@@ -1,9 +1,7 @@
 # 🌵 Brigitte Yan 🌲
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/brigitte-yan//)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brigitte.xyan@gmail.com)
-[![Medium](https://img.shields.io/badge/-Medium-c14438?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@brigitte.xyan)](https://medium.com/@brigitte.xyan)
-[![Github](https://img.shields.io/github/followers/briggyx?label=Follow&style=social)](https://github.com/briggyx)
+### [My Resume 📑](https://github.com/briggyx/Resume/blob/master/BrigitteYan_Resume.pdf)
+
 
 ``` Bash
     ,-~~-.___.
@@ -17,7 +15,10 @@
             (Snoopy ascii art by Paul Hickey)
 ```
 
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/brigitte-yan//)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brigitte.xyan@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-c14438?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@brigitte.xyan)](https://medium.com/@brigitte.xyan)
+[![Github](https://img.shields.io/github/followers/briggyx?label=Follow&style=social)](https://github.com/briggyx)
 
 ## 🖥️ Professional Experience
 - **Condo Designer**
