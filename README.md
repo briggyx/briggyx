@@ -30,6 +30,7 @@
 - **B.Sc. in Ecology & Evolutionary Biology & Mathematics**; University of Toronto
 - **Bachelor of Environmental Design Studies (Architecture)**; Dalhousie University
 - **Data Science Bootcamp**; Lighthouse Labs
+- **UX Design**; BrainStation
 
 ## 🗺️ Other Experiences
 - Adirondack Forest Ecology Field Course at SUNY-ESF 
