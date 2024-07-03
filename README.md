@@ -23,26 +23,18 @@
 - **Condo Building Designer**
 - **Herbarium Research Student & Technician**
 - **Financial Services Customer Service**
-- **Camp Arts & Crafts Instructor** 
+- **Summer Camp Arts & Crafts Instructor** 
 
 ## 🎓 Education
-<<<<<<< Updated upstream
 - **B.Sc. in Ecology & Evolutionary Biology & Mathematics**; University of Toronto
 - **Bachelor of Environmental Design Studies (Architecture)**; Dalhousie University
-- **Data Science Bootcamp**; Lighthouse Labs
-- **UX Design**; BrainStation
-=======
-- **Hon. B.Sc. in Ecology & Evolutionary Biology & Mathematics**; University of Toronto
-- **Bachelor of Environmental Design Studies (Architecture Major)**; Dalhousie University
 - **Data Science Diploma**; Lighthouse Labs
 - **UX Design Diploma**; BrainStation
->>>>>>> Stashed changes
 
 ## 🗺️ Etc...
 - Adirondack Forest Ecology Field Course at SUNY-ESF  
 - University of Toronto Outing Club 
 - Dalhousie Architecture Students Association
-
 
 ## ⚙️ Tech Stack
 
@@ -52,12 +44,3 @@
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briggyx&show_icons=true&locale=en&layout=compact" alt="briggyx" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=briggyx&" alt="briggyx" />
 </div>
-<<<<<<< Updated upstream
-
-
----
-**Ackowledgements**
-
-Thank you to [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/) for helping me to create this profile!
-=======
->>>>>>> Stashed changes
