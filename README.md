@@ -1,6 +1,6 @@
 # 🌵 Brigitte Yan 🌲
 
-### [My Resume 📑](https://github.com/briggyx/Resume/blob/master/Brigitte-Yan_Resume.pdf)
+### [My Resume 📑](https://github.com/briggyx/Resume/blob/master/Brigitte-Yan-Resume.pdf)
 
 
 ``` Bash
